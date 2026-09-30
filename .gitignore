@@ -63,3 +63,5 @@ dump.rdb
 # 7. Testing
 # ---------------------------------
 /coverage
+# AI context dumps
+repomix-output.xml
